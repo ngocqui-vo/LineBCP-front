@@ -1,0 +1,154 @@
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("SFProDisplay-BlackItalic.woff") format("woff"),
+    url("SFProDisplay-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("SFProDisplay-LightItalic.woff") format("woff"),
+    url("SFProDisplay-LightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("SFProDisplay-Medium.woff") format("woff"),
+    url("SFProDisplay-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("SFProDisplay-HeavyItalic.woff") format("woff"),
+    url("SFProDisplay-HeavyItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("SFProDisplay-Bold.woff") format("woff"),
+    url("SFProDisplay-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("SFProDisplay-ThinItalic.woff") format("woff"),
+    url("SFProDisplay-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("SFProDisplay-SemiboldItalic.woff") format("woff"),
+    url("SFProDisplay-SemiboldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("SFProDisplay-UltralightItalic.woff") format("woff"),
+    url("SFProDisplay-UltralightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("SFProDisplay-Regular.woff") format("woff"),
+    url("SFProDisplay-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+.size16W600H1909 {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19.09px;
+}
+
+.size13W400H18 {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 18px;
+}
+.size24W600H16 {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+}
+.size16W400H22 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+}
+.size24W600H288 {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 28.8px;
+}
+.size14W600H192 {
+  font-size: 16px;
+  line-height: 19.2px;
+  font-weight: 600
+}
+.size14W600H196 {
+  font-size: 14px;
+  line-height: 19.6px;
+  font-weight: 600
+}
+.size12W400H168 {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16.8px;
+}
+.size20W400H24 {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+}
+.size16W600H22 {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+}
+.size14W400H20 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19.6px;
+}
+.size15W600H20 {
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 20px;
+}
+.ellipsis2 {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: normal;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

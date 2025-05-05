@@ -1,0 +1,14 @@
+{
+  "Validation": {},
+  "Common": {
+    "Title": "タイトル",
+    "Description": "説明",
+    "Name": "名前",
+    "Age": "年齢"
+  },
+  "Routes": {
+    "Home": "ホーム",
+    "About": "約",
+    "Contact": "接触"
+  }
+}

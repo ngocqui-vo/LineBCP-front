@@ -1,0 +1,108 @@
+{
+  "common": {
+    "button": {
+      "cancel": "キャンセル",
+      "delete": "消去"
+    },
+    "logout": "ログアウト"
+  },
+  "logout": "ログアウト",
+  "error": "Error Message",
+  "register": {
+    "title": "現在BCサービスにログインされておりません",
+    "description": "BC会員情報をご入力ください",
+    "id": "会員ID",
+    "password": "電子マネーPIN",
+    "date": "生年月日",
+    "submit": "登録",
+    "questions": "よくあるご質問",
+    "formatDate": "yyyy/mm/dd",
+    "titleTMN": "利用登録"
+  },
+  "registerSuccess": {
+    "title": "登録完了しました",
+    "description": "引き続きサービスをご利用ください",
+    "cancel": "登録解除"
+  },
+  "registerCancel": {
+    "title": "現在サービスご利用中です",
+    "description": "登録解除しますか？",
+    "cancel": "キャンセル"
+  },
+  "registerWithBoth": {
+    "cryptocurrencyId": "電子マネーID"
+  },
+  "registerWithBothCancel": {
+    "title": "ポイントのみ登録いただいております",
+    "description": "電子マネーの登録も行いますか？",
+    "confirm": "ポイント登録の解除を行いますか？"
+  },
+  "registerWithOnlyPoint": {
+    "title": "現在BCサービスにログインされておりません。"
+  },
+  "eMoney": {
+    "history": {
+      "unit": "円",
+      "noUsageHistory": "取得できるご利用履歴はございません",
+      "checkLast50Item": "直近50件までを確認いただけます",
+      "historyEMoney": "履歴一覧",
+      "title": "履歴確認"
+    },
+    "eMoneyBalance": "電子マネー残高"
+  },
+  "qa": {
+    "title": "よくあるご質問"
+  },
+  "memberBarcode": {
+    "header": "会員証"
+  },
+  "barcodepoint": {
+    "title": "ポイント",
+    "submit": "確認"
+  },
+  "point": {
+    "unit": "pt",
+    "pointBalance": "ポイント残高"
+  },
+  "coupon": {
+    "emptyCoupon": "現在ご利用可能な \n クーポンはありません",
+    "continueService": "引き続きサービスをご利用ください",
+    "useCoupon": "クーポンを使う",
+    "title": "クーポン一覧",
+    "detailTitle": "クーポン"
+  },
+  "toast": {
+    "registerSuccess": "利用登録が完了しました",
+    "registerFailed": "利用登録が失敗しましたしばらく経ってから改めてお試しください",
+    "cancelSuccess": "登録解除が成功しました",
+    "cancelFailed": "登録解除が失敗しました"
+  },
+  "noService": {
+    "title": "サービスに登録されていません",
+    "subtitle": "利用登録を行なってください",
+    "confirmation": "確認"
+  },
+  "validation": {
+    "register": {
+      "idCardIsRequired": "会員IDを入力してください",
+      "idCardMustBeLessThan32Characters": "会員IDは32文字以下で入力してください",
+      "idCardCannotContainSpacesOrSpecialCharacters": "会員IDを正しく入力してください",
+      "pinIsRequired": "PINを入力してください",
+      "pinMustBeLessThan32Characters": "PINは32文字以下で入力してください",
+      "pinCannotContainSpacesOrSpecialCharacters": "PINを正しく入力してください",
+      "cryptocurrencyIdIsRequired": "暗号通貨IDは必須です",
+      "cryptocurrencyIdMustBeLessThan32Characters": "暗号通貨IDは32文字未満でなければなりません",
+      "cryptocurrencyIdCannotContainSpacesOrSpecialCharacters": "暗号通貨IDにはスペースや特殊文字を含めることはできません。",
+      "dateIsRequired": "生年月日が入力されていません"
+    }
+  },
+  "arara": {
+    "eMoney": {
+      "title": "電子マネー",
+      "eMoneyNoService": "電子マネーの登録がされていません。"
+    },
+    "cancel": {
+      "title": "ポイントのみ登録いただいております。"
+    }
+  }
+}

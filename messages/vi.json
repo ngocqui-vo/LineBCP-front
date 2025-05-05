@@ -1,0 +1,14 @@
+{
+    "Validation": {},
+    "Common": {
+        "Title": "Tiêu đề",
+        "Description": "Mô tả",
+        "Name": "Tên",
+        "Age": "Tuổi"
+    },
+    "Routes": {
+        "Home": "Trang chủ",
+        "About": "Về chúng tôi",
+        "Contact": "Liên hệ"
+    }
+}

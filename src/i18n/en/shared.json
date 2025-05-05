@@ -1,0 +1,107 @@
+{
+  "common": {
+    "button": {
+      "cancel": "Cancel",
+      "delete": "Delete"
+    },
+    "logout": "logout"
+  },
+  "logout": "logout",
+  "register": {
+    "title": "You are not currently logged into the BC service",
+    "description": "Please enter your BC member information",
+    "id": "Member ID",
+    "password": "Electronic Money PIN",
+    "date": "Date of Birth",
+    "submit": "Register",
+    "questions": "Frequently Asked Questions",
+    "formatDate": "yyyy/mm/dd",
+    "titleTMN": "User registration"
+  },
+  "registerSuccess": {
+    "title": "Registration Completed",
+    "description": "Please continue to use the service",
+    "cancel": "Cancel Registration"
+  },
+  "registerCancel": {
+    "title": "You are currently using the service",
+    "description": "Do you want to cancel the registration?",
+    "cancel": "Cancel"
+  },
+  "registerWithBoth": {
+    "cryptocurrencyId": "Electronic Money ID"
+  },
+  "registerWithBothCancel": {
+    "title": "You have only registered points",
+    "description": "Would you also like to register electronic money?",
+    "confirm": "Do you want to cancel the point registration?"
+  },
+  "registerWithOnlyPoint": {
+    "title": "You are not currently logged in to the BC service."
+  },
+  "eMoney": {
+    "history": {
+      "unit": "円",
+      "noUsageHistory": "There is no usage history available.",
+      "checkLast50Item": "You can check up to the last 50 items.",
+      "historyEMoney": "History Emoney",
+      "title": "E money"
+    },
+    "eMoneyBalance": "E money balance"
+  },
+  "qa": {
+    "title": "Frequently Asked Questions"
+  },
+  "memberBarcode": {
+    "header": "memberBarcode"
+  },
+  "barcodepoint": {
+    "title": "Barcode Point",
+    "submit": "Submit"
+  },
+  "point": {
+    "unit": "pt",
+    "pointBalance": "Point balance"
+  },
+  "coupon": {
+    "emptyCoupon": "There are currently no coupons available",
+    "continueService": "Please continue to use our service.",
+    "useCoupon": "Use coupon",
+    "title": "Coupon list",
+    "detailTitle": "Detail Coupon"
+  },
+  "toast": {
+    "registerSuccess": "Successfully registered to use the app",
+    "registerFailed": "Failed to register to use the app",
+    "cancelSuccess": "Successfully unsubscribed",
+    "cancelFailed": "Failed to unsubscribe"
+  },
+  "noService": {
+    "title": "Not subscribed to the service",
+    "subtitle": "Sign up for the service",
+    "confirmation": "Confirmation"
+  },
+  "validation": {
+    "register": {
+      "idCardIsRequired": "ID Card is required!",
+      "idCardMustBeLessThan32Characters": "ID Card must be less than 32 characters!",
+      "idCardCannotContainSpacesOrSpecialCharacters": "ID Card cannot contain spaces or special characters!",
+      "pinIsRequired": "Pin is required!",
+      "pinMustBeLessThan32Characters": "Pin must be less than 32 characters!",
+      "pinCannotContainSpacesOrSpecialCharacters": "Pin cannot contain spaces or special characters!",
+      "cryptocurrencyIdIsRequired": "Cryptocurrency id is Required",
+      "cryptocurrencyIdMustBeLessThan32Characters": "Cryptocurrency id must be less than 32 characters!",
+      "cryptocurrencyIdCannotContainSpacesOrSpecialCharacters": "Cryptocurrency id cannot contain spaces or special characters!",
+      "dateIsRequired": "Date is required"
+    }
+  },
+  "arara": {
+    "eMoney": {
+      "title": "Barcode eMoney",
+      "eMoneyNoService": "E-money has not been registered."
+    },
+    "cancel": {
+      "title": "Only points are registered."
+    }
+  }
+}

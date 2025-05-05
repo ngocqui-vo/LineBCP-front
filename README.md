@@ -1,0 +1,2 @@
+- Node version must be >= 18.
+- Using Yarn for installing all packages.
